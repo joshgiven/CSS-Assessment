@@ -12,6 +12,11 @@
   color: #512c70;
 }
 
+#scoreBoard tfoot {
+  font-weight: bold;
+  color: pink;
+}
+
 #scoreBoard td, #scoreBoard th {
   border: 1px solid black;
   text-align: center;
